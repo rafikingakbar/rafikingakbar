@@ -23,7 +23,7 @@ Currently focusing on data science and backend development!
 
 ## 💬 Talking about Personal Stuff:
 
-- 📖 I'm a **3rd Year Statistics Student** at [UNJ](https://www.unj.ac.id)
+- 📖 I'm a **2rd Year Statistics Student** at [UNJ](https://www.unj.ac.id)
 - 📚 Currently exploring data analytics and full-stack/backend development
 - 📧 Email me at: **rafikingakbar@gmail.com**
 
