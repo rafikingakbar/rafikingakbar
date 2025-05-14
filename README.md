@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Welcome to Rafi King Akbar's profile! 👋</h1>
 
-<!--
-**GodZlzz/GodZlzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafi-king-akbar-748272218">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/rafikingakbar">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:rafikingakbar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎉 Glad to see you here!
+
+I'm a Statistics student at UNJ who loves learning about data, web technologies, and programming.  
+Currently focusing on data science and backend development!
+
+---
+
+## 💬 Talking about Personal Stuff:
+
+- 📖 I'm a **3rd Year Statistics Student** at [UNJ](https://www.unj.ac.id)
+- 📚 Currently exploring data analytics and full-stack/backend development
+- 📧 Email me at: **rafikingakbar@gmail.com**
+
+---
+
+<img align="right" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
+### 🚀 Currently Learning:
+- Python for data science and scripting
+- PHP and SQL for backend and web development
+- JavaScript for interactive web applications
