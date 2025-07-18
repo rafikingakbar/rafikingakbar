@@ -41,6 +41,18 @@ With a strong foundation in data science and backend development, I enjoy combin
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafikingakbar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=rafikingakbar&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikingakbar&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
 ## 💬 Let's Connect
 
 Whether you're interested in collaboration, project ideas, or just want to talk about data and code—feel free to reach out!
