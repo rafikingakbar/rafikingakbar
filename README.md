@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Rafi King Akbar's profile! 👋</h1>
+<h1 align="center">👋 Welcome to Rafi King Akbar's GitHub Profile!</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafi-king-akbar-748272218">
@@ -14,25 +14,36 @@
 
 ---
 
-## 🎉 Glad to see you here!
+## 🎓 About Me
 
-I'm a Statistics student at UNJ who loves learning about data, web technologies, and programming.  
-Currently focusing on data science and backend development!
+Hi there! I'm **Rafi King Akbar**, a passionate Statistics student at [Universitas Negeri Jakarta (UNJ)](https://unj.ac.id/).  
+I love turning raw data into meaningful insights and developing web applications that make analysis accessible and interactive.
 
----
-
-## 💬 Talking about Personal Stuff:
-
-- 📖 I'm a **2rd Year Statistics Student** at [UNJ](https://unj.ac.id/)
-- 📚 Currently exploring data analytics and full-stack/backend development
-- 📧 Email me at: **rafikingakbar@gmail.com**
+With a strong foundation in data science and backend development, I enjoy combining statistics with code to build powerful tools and dashboards.
 
 ---
+
+## 🔧 Skills & Tools
 
 <img align="right" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-### 🧠 Skills & Tools:
-- 📊 **R** (regression modeling, ggplot2, shiny, dplyr, tidyr, readr)
-- 📈 **Python** (pandas, matplotlib, seaborn, scikit-learn)
-- 💻 **Web** (HTML, CSS, JavaScript, PHP, MySQL)
-- ⚙️ **Tools**: RStudio, VS Code, Git & GitHub
+**Data Science & Analysis**  
+- 📊 R: `regression`, `visualization`, `shiny`, `tidyverse`, `data wrangling`
+- 📈 Python: `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
+
+**Web Development & Backend**  
+- 🌐 HTML, CSS, JavaScript  
+- 🛠 PHP & MySQL (CRUD, API integration)
+
+**Workflow & Tools**  
+- 🖥 RStudio, Visual Studio Code  
+- 🗂 Git, GitHub
+
+---
+
+## 💬 Let's Connect
+
+Whether you're interested in collaboration, project ideas, or just want to talk about data and code—feel free to reach out!
+
+📧 **rafikingakbar@gmail.com**  
+🔗 Or connect via the links above 👆
