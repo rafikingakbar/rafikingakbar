@@ -31,7 +31,8 @@ Currently focusing on data science and backend development!
 
 <img align="right" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-### 🚀 Currently Learning:
-- Python for data science and scripting
-- PHP and SQL for backend and web development
-- JavaScript for interactive web applications
+### 🧠 Skills & Tools:
+- 📊 **R** (regression modeling, ggplot2, shiny, dplyr, tidyr, readr)
+- 📈 **Python** (pandas, matplotlib, seaborn, scikit-learn)
+- 💻 **Web** (HTML, CSS, JavaScript, PHP, MySQL)
+- ⚙️ **Tools**: RStudio, VS Code, Git & GitHub
