@@ -44,15 +44,16 @@ With a strong foundation in data science and backend development, I enjoy combin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafikingakbar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=rafikingakbar&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rafikingakbar&show_icons=true&theme=radical&count_private=true" />
+  <img width="47%" src="https://streak-stats.demolab.com?user=rafikingakbar&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikingakbar&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikingakbar&layout=compact&theme=radical" />
 </p>
 
 ---
+
 ## 💬 Let's Connect
 
 Whether you're interested in collaboration, project ideas, or just want to talk about data and code—feel free to reach out!
