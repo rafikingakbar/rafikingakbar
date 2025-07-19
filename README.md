@@ -28,7 +28,7 @@ With a strong foundation in data science and backend development, I enjoy combin
 <img align="right" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 **Data Science & Analysis**  
-- 📊 R: `regression`, `visualization`, `shiny`, `tidyverse`, `data wrangling`
+- 📊 R: `regression`, `visualization`, `shiny`, `tidyverse`, `data wrangling`  
 - 📈 Python: `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
 
 **Web Development & Backend**  
@@ -44,11 +44,8 @@ With a strong foundation in data science and backend development, I enjoy combin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rafikingakbar&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikingakbar&layout=compact&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rafikingakbar&show_icons=true&theme=radical&count_private=true&cache_seconds=3600" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikingakbar&layout=compact&theme=radical&cache_seconds=3600" />
 </p>
 
 ---
