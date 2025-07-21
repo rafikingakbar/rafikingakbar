@@ -52,7 +52,7 @@ With a strong foundation in data science and backend development, I enjoy combin
 
 ## 💬 Let's Connect
 
-Whether you're interested in collaboration, project ideas, or just want to talk about data and code—feel free to reach out!
+Whether you're interested in collaboration, project ideas, or just want to talk about data and code feel free to reach out!
 
 📧 **rafikingakbar@gmail.com**  
 🔗 Or connect via the links above 👆
