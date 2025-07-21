@@ -45,7 +45,7 @@ With a strong foundation in data science and backend development, I enjoy combin
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rafikingakbar&show_icons=true&theme=radical&count_private=true&cache_seconds=3600" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikingakbar&layout=compact&theme=radical&cache_seconds=3600" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikingakbar&layout=compact&theme=radical&cache_seconds=3600" />
 </p>
 
 ---
