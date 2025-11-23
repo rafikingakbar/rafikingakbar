@@ -36,7 +36,7 @@ With a strong foundation in data science and backend development, I enjoy combin
 - 🛠 PHP & MySQL (CRUD, API integration)
 
 **Workflow & Tools**  
-- 🖥 RStudio, Visual Studio Code  
+- 🖥 RStudio, Visual Studio Code, Google Colab
 - 🗂 Git, GitHub
 
 ---
