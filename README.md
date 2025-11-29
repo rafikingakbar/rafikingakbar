@@ -16,9 +16,10 @@
 
 ## 🎓 About Me
 
-Hi there! I'm **Rafi King Akbar**, a passionate Statistics student at [Universitas Negeri Jakarta (UNJ)](https://unj.ac.id/).  
-I love turning raw data into meaningful insights and developing web applications that make analysis accessible and interactive.
+Hi there! I'm **Rafi King Akbar**, a Statistics student at  
+[Universitas Negeri Jakarta (UNJ)](https://unj.ac.id/).
 
+I love turning raw data into meaningful insights and developing web applications that make analysis accessible and interactive.  
 With a strong foundation in data science and backend development, I enjoy combining statistics with code to build powerful tools and dashboards.
 
 ---
@@ -27,16 +28,16 @@ With a strong foundation in data science and backend development, I enjoy combin
 
 <img align="right" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-**Data Science & Analysis**  
-- 📊 R: `regression`, `visualization`, `shiny`, `tidyverse`, `data wrangling`  
-- 📈 Python: `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
+### **Data Science & Analysis**
+- 📊 R: regression, visualization, shiny, tidyverse, data wrangling  
+- 📈 Python: pandas, matplotlib, seaborn, scikit-learn
 
-**Web Development & Backend**  
+### **Web Development & Backend**
 - 🌐 HTML, CSS, JavaScript  
 - 🛠 PHP & MySQL (CRUD, API integration)
 
-**Workflow & Tools**  
-- 🖥 RStudio, Visual Studio Code, Google Colab
+### **Workflow & Tools**
+- 🖥 RStudio, Visual Studio Code, Google Colab  
 - 🗂 Git, GitHub
 
 ---
@@ -44,15 +45,16 @@ With a strong foundation in data science and backend development, I enjoy combin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rafikingakbar&show_icons=true&theme=radical&count_private=true&cache_seconds=3600" />
-  <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikingakbar&layout=compact&theme=radical&cache_seconds=3600" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rafikingakbar&show_icons=true&theme=radical&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikingakbar&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 💬 Let's Connect
 
-Whether you're interested in collaboration, project ideas, or just want to talk about data and code feel free to reach out!
+If you're interested in collaboration, project ideas, or just want to talk about data and code, feel free to reach out!
 
 📧 **rafikingakbar@gmail.com**  
-🔗 Or connect via the links above 👆
+🔗 Connect via the links above
+
