@@ -42,15 +42,6 @@ With a strong foundation in data science and backend development, I enjoy combin
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=rafikingakbar&show_icons=true&theme=radical" />
-  <img height="180px" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=rafikingakbar&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 💬 Let's Connect
 
 If you're interested in collaboration, project ideas, or just want to talk about data and code, feel free to reach out!
