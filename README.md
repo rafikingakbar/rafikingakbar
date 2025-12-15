@@ -14,38 +14,38 @@
 
 ---
 
-## 🎓 About Me
+## About Me
 
-Hi there! I'm **Rafi King Akbar**, a Statistics student at  
+Hello! I'm **Rafi King Akbar**, a Statistics student at  
 [Universitas Negeri Jakarta (UNJ)](https://unj.ac.id/).
 
-I love turning raw data into meaningful insights and developing web applications that make analysis accessible and interactive.  
-With a strong foundation in data science and backend development, I enjoy combining statistics with code to build powerful tools and dashboards.
+I am interested in data science and machine learning, particularly in transforming raw data into meaningful insights through statistical analysis and computational approaches. I also enjoy building web-based applications and dashboards to make data analysis more accessible and interactive.
+
+With a strong foundation in statistics and programming, I aim to bridge theoretical concepts with practical, real-world data-driven solutions.
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 
 <img align="right" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-### **Data Science & Analysis**
-- 📊 R: regression, visualization, shiny, tidyverse, data wrangling  
-- 📈 Python: pandas, matplotlib, seaborn, scikit-learn
+### Data Science & Analysis
+- R: regression analysis, data visualization, Shiny, tidyverse, data wrangling  
+- Python: pandas, matplotlib, seaborn, scikit-learn
 
-### **Web Development & Backend**
-- 🌐 HTML, CSS, JavaScript  
-- 🛠 PHP & MySQL (CRUD, API integration)
+### Web Development & Backend
+- HTML, CSS, JavaScript  
+- PHP & MySQL (CRUD operations, API integration)
 
-### **Workflow & Tools**
-- 🖥 RStudio, Visual Studio Code, Google Colab  
-- 🗂 Git, GitHub
+### Workflow & Development Tools
+- RStudio, Visual Studio Code, Google Colab  
+- Git and GitHub
 
 ---
 
-## 💬 Let's Connect
+## Let's Connect
 
-If you're interested in collaboration, project ideas, or just want to talk about data and code, feel free to reach out!
+If you are interested in collaboration, research projects, or discussions related to data science, statistics, or software development, feel free to reach out.
 
-📧 **rafikingakbar@gmail.com**  
-🔗 Connect via the links above
-
+Email: **rafikingakbar@gmail.com**  
+LinkedIn and other social links are available above.
